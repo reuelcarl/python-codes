@@ -1,0 +1,2 @@
+def project():
+    name = ("input")

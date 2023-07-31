@@ -1,0 +1,6 @@
+name = input("what is your name? ")
+password = input("input password? ")
+email = input ("input email? ")
+age = input ("input age? ")
+domain = input("input domain? ")
+print("welcome" , name )
